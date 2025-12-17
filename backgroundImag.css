@@ -1,0 +1,21 @@
+body{
+   height: 400px;
+    background-image: url('./images/img1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 500px;
+      
+};
+.parallax{
+    background-attachment:scroll;
+}
+
+h1{
+    color: rgb(247, 229, 229);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+
+}
